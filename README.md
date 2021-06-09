@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Michael</h1>
+<h3 align="center">Cloud Infrastructure Architect</h3>
 
-<!--
-**networkop/networkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [The Kubernetes Networking Guide](https://k8s.networkop.co.uk/)
+- 💬 Ask me about Networking, Cloud and Programming
+- 📝 I regularly write articles on [https://networkop.co.uk](https://networkop.co.uk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=networkop&label=Profile%20views&color=0e75b6&style=flat" alt="networkop" /> 
+<a href="https://twitter.com/networkop1" target="blank"><img src="https://img.shields.io/twitter/follow/networkop1?logo=twitter&style=for-the-badge" alt="networkop1" /></a> </p>
