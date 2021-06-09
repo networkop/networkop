@@ -8,6 +8,5 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=networkop&label=Profile%20views&color=0e75b6&style=flat" alt="networkop" /> 
+<p align="left"> 
 <a href="https://twitter.com/networkop1" target="blank"><img src="https://img.shields.io/twitter/follow/networkop1?logo=twitter&style=for-the-badge" alt="networkop1" /></a> </p>
