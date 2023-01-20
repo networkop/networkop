@@ -12,6 +12,4 @@
 <a href="https://twitter.com/networkop1" target="blank"><img src="https://img.shields.io/twitter/follow/networkop1?logo=twitter&style=for-the-badge" alt="networkop1" /></a> </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=networkop&layout=compact&theme=radical&hide=html) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=networkop&theme=radical&show_icons=true)
